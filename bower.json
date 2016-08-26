@@ -1,0 +1,6 @@
+{
+  "name": "testgulp",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
