@@ -1,6 +1,7 @@
 {
   "name": "testgulp",
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "normalize-css": "normalize.css#^4.2.0"
   }
 }
